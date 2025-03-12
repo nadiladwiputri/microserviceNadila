@@ -1,7 +1,8 @@
 package com.teknologiinformasi.restapi.order.model;
 
 
-//class produk hanya berperan sebagai DTO(data transfer objects)
+
+//class produk hanya berperan sebagai DTO( data trasnfer objek)
 public class Produk {
 
    private Long id;
